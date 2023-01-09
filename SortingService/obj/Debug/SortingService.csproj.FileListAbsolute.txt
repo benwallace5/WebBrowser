@@ -1,0 +1,14 @@
+C:\Users\Benpc\source\repos\Assignment1\SortingService\bin\SortingService.dll.config
+C:\Users\Benpc\source\repos\Assignment1\SortingService\bin\SortingService.dll
+C:\Users\Benpc\source\repos\Assignment1\SortingService\bin\SortingService.pdb
+C:\Users\Benpc\source\repos\Assignment1\SortingService\obj\Debug\SortingService.csproj.AssemblyReference.cache
+C:\Users\Benpc\source\repos\Assignment1\SortingService\obj\Debug\SortingService.csproj.CoreCompileInputs.cache
+C:\Users\Benpc\source\repos\Assignment1\SortingService\obj\Debug\SortingService.dll
+C:\Users\Benpc\source\repos\Assignment1\SortingService\obj\Debug\SortingService.pdb
+C:\Users\BenLaptop\Desktop\Project1\SortingService\bin\SortingService.dll.config
+C:\Users\BenLaptop\Desktop\Project1\SortingService\bin\SortingService.dll
+C:\Users\BenLaptop\Desktop\Project1\SortingService\bin\SortingService.pdb
+C:\Users\BenLaptop\Desktop\Project1\SortingService\obj\Debug\SortingService.csproj.AssemblyReference.cache
+C:\Users\BenLaptop\Desktop\Project1\SortingService\obj\Debug\SortingService.csproj.CoreCompileInputs.cache
+C:\Users\BenLaptop\Desktop\Project1\SortingService\obj\Debug\SortingService.dll
+C:\Users\BenLaptop\Desktop\Project1\SortingService\obj\Debug\SortingService.pdb

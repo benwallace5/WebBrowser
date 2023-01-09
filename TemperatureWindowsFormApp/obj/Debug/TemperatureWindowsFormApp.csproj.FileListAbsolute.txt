@@ -1,0 +1,11 @@
+C:\Users\BenLaptop\Desktop\Project1\TemperatureWindowsFormApp\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\BenLaptop\Desktop\Project1\TemperatureWindowsFormApp\bin\Debug\WindowsFormsApp1.exe
+C:\Users\BenLaptop\Desktop\Project1\TemperatureWindowsFormApp\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\BenLaptop\Desktop\Project1\TemperatureWindowsFormApp\obj\Debug\TemperatureWindowsFormApp.csproj.AssemblyReference.cache
+C:\Users\BenLaptop\Desktop\Project1\TemperatureWindowsFormApp\obj\Debug\TemperatureWindowsFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\BenLaptop\Desktop\Project1\TemperatureWindowsFormApp\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\BenLaptop\Desktop\Project1\TemperatureWindowsFormApp\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\BenLaptop\Desktop\Project1\TemperatureWindowsFormApp\obj\Debug\TemperatureWindowsFormApp.csproj.GenerateResource.cache
+C:\Users\BenLaptop\Desktop\Project1\TemperatureWindowsFormApp\obj\Debug\TemperatureWindowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\BenLaptop\Desktop\Project1\TemperatureWindowsFormApp\obj\Debug\WindowsFormsApp1.exe
+C:\Users\BenLaptop\Desktop\Project1\TemperatureWindowsFormApp\obj\Debug\WindowsFormsApp1.pdb

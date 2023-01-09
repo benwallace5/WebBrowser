@@ -1,0 +1,14 @@
+C:\Users\Benpc\source\repos\Assignment1\Assignment1\bin\Assignment1.dll.config
+C:\Users\Benpc\source\repos\Assignment1\Assignment1\bin\Assignment1.dll
+C:\Users\Benpc\source\repos\Assignment1\Assignment1\bin\Assignment1.pdb
+C:\Users\Benpc\source\repos\Assignment1\Assignment1\obj\Debug\TemperatureService.csproj.AssemblyReference.cache
+C:\Users\Benpc\source\repos\Assignment1\Assignment1\obj\Debug\TemperatureService.csproj.CoreCompileInputs.cache
+C:\Users\Benpc\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.dll
+C:\Users\Benpc\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\BenLaptop\Desktop\Project1\TemperatureService\bin\Assignment1.dll.config
+C:\Users\BenLaptop\Desktop\Project1\TemperatureService\bin\Assignment1.dll
+C:\Users\BenLaptop\Desktop\Project1\TemperatureService\bin\Assignment1.pdb
+C:\Users\BenLaptop\Desktop\Project1\TemperatureService\obj\Debug\TemperatureService.csproj.AssemblyReference.cache
+C:\Users\BenLaptop\Desktop\Project1\TemperatureService\obj\Debug\TemperatureService.csproj.CoreCompileInputs.cache
+C:\Users\BenLaptop\Desktop\Project1\TemperatureService\obj\Debug\Assignment1.dll
+C:\Users\BenLaptop\Desktop\Project1\TemperatureService\obj\Debug\Assignment1.pdb
